@@ -1,0 +1,9 @@
+{
+  "description": "A bare-bones system for writing dialogue and other messages to a text box.",
+  "displayName": "CURGLAFF Dialogue - In House Escape Code Responder",
+  "keywords": [
+    "text"
+  ],
+  "name": "com.clouds.escape_codes",
+  "version": "0.0.1"
+}
