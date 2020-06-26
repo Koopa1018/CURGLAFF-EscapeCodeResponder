@@ -10,5 +10,8 @@
     "revision": "6aafdc7df8aa0a3132ddb6e7f4b3e607e1e524c3",
     "type": "git",
     "url": "https://github.com/Koopa1018/CURGLAFF-EscapeCodeResponder.git/trunk"
+  },
+  "dependencies: {
+    "com.clouds.dialogue_box": "0.0.3"
   }
 }
