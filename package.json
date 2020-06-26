@@ -5,5 +5,10 @@
     "text"
   ],
   "name": "com.clouds.escape_codes",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "repository": {
+    "revision": "6aafdc7df8aa0a3132ddb6e7f4b3e607e1e524c3",
+    "type": "git",
+    "url": "https://github.com/Koopa1018/CURGLAFF-EscapeCodeResponder.git/trunk"
+  }
 }
